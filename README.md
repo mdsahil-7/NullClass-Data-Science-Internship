@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
 # 📋 Comprehensive Project Report: AI-Powered Computer Vision Systems Portfolio
 
 **A Complete Machine Learning Implementation Suite for Real-World Applications**
