@@ -364,11 +364,6 @@ The successful completion of this project portfolio establishes a strong foundat
 **Documentation:** Complete user manuals, technical specifications, and deployment guides
 
 This project portfolio represents a significant achievement in applied machine learning, demonstrating both technical excellence and practical utility across diverse application domains.
-<span style="display:none">[^1][^2][^3][^4][^5][^6][^7][^8]</span>
-
-```
-<div style="text-align: center">⁂</div>
-```
 
 [^1]: https://www.cs.utexas.edu/~mooney/cs391L/paper-template.html
 
